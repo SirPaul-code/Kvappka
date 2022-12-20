@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731928927455",
+    "firebase_url": "https://kvappka-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kvappka",
+    "storage_bucket": "kvappka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731928927455:android:a36ab1e2429bc84f6edd6a",
+        "android_client_info": {
+          "package_name": "com.darkfox.kvappka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731928927455-521d18etvd48d5h6ausdltfqa5m5duok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6877PnFeKEAZtn7P8Y-MuBeR_7NPZxJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731928927455-521d18etvd48d5h6ausdltfqa5m5duok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
